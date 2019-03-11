@@ -1,0 +1,9 @@
+{
+    "VERSION": "0.2",
+    "API_CERT": "./localhost.crt",
+    "API_PASSWORD": "12345",
+    "MASTER_API_HOST": "localhost",
+    "MASTER_API_PORT": "8080"
+}
+
+

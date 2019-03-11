@@ -1,0 +1,17 @@
+{
+  "name": "master_server",
+  "version": "1.0.0",
+  "description": "master server",
+  "main": "master.js",
+  "scripts": {
+    "start": "node master.js"
+  },
+  "author": "adrian",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "tls-json": "^3.0.1"
+  }
+}

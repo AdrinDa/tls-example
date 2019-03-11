@@ -1,0 +1,6 @@
+{
+    "API_KEY": "./localhost.key",
+    "API_CERT": "./localhost.crt",
+    "API_PASSWORD": "12345",
+    "MASTER_API_PORT": "8080"
+}
